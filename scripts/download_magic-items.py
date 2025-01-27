@@ -1,6 +1,6 @@
 from lxml.html import fromstring, tostring
 from trafilatura import fetch_url, extract
-from constants import data_dir, site_origin
+from constants import data_dir, site_origin, md_ext
 
 from re import search, sub
 from requests import get
@@ -13,7 +13,7 @@ site_url = site_origin() + asset_type + "/"
 def get_file_name(url):
     name_match = search(r'/[0-9]+-([-0-9a-zA-Z]+)$', url)
     name = name_match.group(1)
-    print(f'name: {name}.txt')
+    print(f'name: {name}')
     return name
 
 def get_file_ext(url):
@@ -123,7 +123,7 @@ def html_to_md(html, file_name, page_title):
     fix_metadata_and_header()
     md = "\n".join(md_lines)
 
-    with open(target_dir + "/" + file_name + ".txt", "w") as md_file:
+    with open(target_dir + "/" + file_name + md_ext(), "w") as md_file:
         md_file.write(md)
 
 def download_page(slug):

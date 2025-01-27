@@ -9,45 +9,45 @@ Index the `data` directory, which includes pictures and markdown documents:
     data
     ├── backgrounds
     │   ├── acolyte.png
-    │   ├── acolyte.txt
+    │   ├── acolyte.md
     │   ├── ...
     │   ├── soldier.png
-    │   └── soldier.txt
+    │   └── soldier.md
     ├── classes
     │   ├── barbarian.png
-    │   ├── barbarian.txt
+    │   ├── barbarian.md
     │   ├── ...
     │   ├── wizard.png
-    │   └── wizard.txt
+    │   └── wizard.md
     ├── equipment
     │   ├── abacus.jpg
-    │   ├── abacus.txt
+    │   ├── abacus.md
     │   ├── ...
-    │   └── two-weapon-fighting.txt
+    │   └── two-weapon-fighting.md
     ├── magic-items
     │   ├── adamantine-armor.jpg
-    │   ├── adamantine-armor.txt
+    │   ├── adamantine-armor.md
     │   ├── ...
     │   ├── wings-of-flying.jpeg
-    │   └── wings-of-flying.txt
+    │   └── wings-of-flying.md
     ├── monsters
     │   ├── aboleth.png
-    │   ├── aboleth.txt
+    │   ├── aboleth.md
     │   ├── ...
     │   ├── zombie.png
-    │   └── zombie.txt
+    │   └── zombie.md
     ├── species
     │   ├── dragonborn.png
-    │   ├── dragonborn.txt
+    │   ├── dragonborn.md
     │   ├── ...
     │   ├── tiefling.png
-    │   └── tiefling.txt
+    │   └── tiefling.md
     └── spells
         ├── acid-arrow.png
-        ├── acid-arrow.txt
+        ├── acid-arrow.md
         ├── ...
         ├── zone-of-truth.png
-        └── zone-of-truth.txt
+        └── zone-of-truth.md
 
 
 ## Generation
