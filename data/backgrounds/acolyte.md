@@ -63,5 +63,3 @@ Acolytes are shaped by their experience in temples or other religious communitie
 | 4 | I am inflexible in my thinking. |
 | 5 | I am suspicious of strangers and expect the worst of them. |
 | 6 | Once I pick a goal, I become obsessed with it to the detriment of everything else in my life. |
-
-![Acolyte Image](https://www.dndbeyond.com/attachments/0/60/backgrounds.png)

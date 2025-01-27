@@ -74,5 +74,3 @@ Sages are defined by their extensive studies, and their characteristics reflect 
 | 4 | I overlook obvious solutions in favor of complicated ones. |
 | 5 | I speak without really thinking through my words, invariably insulting others. |
 | 6 | I can’t keep a secret to save my life, or anyone else’s. |
-
-![Sage Image](https://www.dndbeyond.com/attachments/0/60/backgrounds.png)

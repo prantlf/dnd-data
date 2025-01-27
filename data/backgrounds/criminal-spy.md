@@ -78,5 +78,3 @@ Criminals might seem like villains on the surface, and many of them are villaino
 **Variant Criminal / Spy: Spy**
 
 Although your capabilities are not much different from those of a burglar or smuggler, you learned and practiced them in a very different context: as an espionage agent. You might have been an officially sanctioned agent of the crown, or perhaps you sold the secrets you uncovered to the highest bidder.
-
-![Criminal / Spy Image](https://www.dndbeyond.com/attachments/0/60/backgrounds.png)

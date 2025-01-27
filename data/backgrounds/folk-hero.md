@@ -76,5 +76,3 @@ A folk hero is one of the common people, for better or for worse. Most folk hero
 | 4 | I have a weakness for the vices of the city, especially hard drink. |
 | 5 | Secretly, I believe that things would be better if I were a tyrant lording over the land. |
 | 6 | I have trouble trusting in my allies. |
-
-![Folk Hero Image](https://www.dndbeyond.com/attachments/0/60/backgrounds.png)

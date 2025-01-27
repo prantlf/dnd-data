@@ -76,5 +76,3 @@ The horrors of war combined with the rigid discipline of military service leave 
 | 4 | My hatred of my enemies is blind and unreasoning. |
 | 5 | I obey the law, even if the law causes misery. |
 | 6 | I’d rather eat my armor than admit when I’m wrong. |
-
-![Soldier Image](https://www.dndbeyond.com/attachments/0/60/backgrounds.png)

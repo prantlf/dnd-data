@@ -17,5 +17,3 @@ You eked out a living in dark alleyways, cutting purses or burgling shops. Perha
 **Skill Proficiencies:**Sleight of Hand and Stealth -
 **Tool Proficiencies:**Thieves’ Tools -
 **Equipment:***Choose A or B:*(A) 2 Daggers, Thieves’ Tools, Crowbar, 2 Pouches, Traveler’s Clothes, 16 GP; or (B) 50 GP
-
-![Criminal Image](https://www.dndbeyond.com/attachments/0/60/backgrounds.png)
