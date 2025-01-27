@@ -1,0 +1,4 @@
+* text=auto eol=lf
+*.png -text -diff -delta
+*.jpg -text -diff -delta
+*.jpeg -text -diff -delta
